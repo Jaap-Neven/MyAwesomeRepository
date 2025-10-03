@@ -6,7 +6,7 @@ These are changes on the main branch
 
 The very big issue is now fixed
 
-
-
 I now fixed the insanely big issue
+
+In the meantime i also made changes
 
