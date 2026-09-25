@@ -9,3 +9,8 @@ Er zijn vleesjes, salades en pastatjes. Maar ook drankjes, biertjes en bieren.
 
 tickets staan op Facebook
 
+Er zijn vleesjes, salades en pastatjes. Maar ook drankjes, biertjes en bieren.
+
+tickets staan op Facebook
+
+Changes during issues of Exercise 3
