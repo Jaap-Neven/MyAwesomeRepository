@@ -7,3 +7,4 @@ This is an additional change to solve Issue1
 
 This fixes the biggest issue
 
+Changes during issues of Exercise 3
